@@ -1,0 +1,3 @@
+~/VS/ReceptorsLC/dOraiM/dOraiMCBDAB.pdbqt
+~/VS/ReceptorsLC/dOraiM/dOraiMCBDCD.pdbqt
+~/VS/ReceptorsLC/dOraiM/dOraiMCBDEF.pdbqt

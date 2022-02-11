@@ -1,0 +1,6 @@
+dOraiMNexusA.pdbqt
+dOraiMNexusB.pdbqt
+dOraiMNexusC.pdbqt
+dOraiMNexusD.pdbqt
+dOraiMNexusE.pdbqt
+dOraiMNexusF.pdbqt

@@ -1,0 +1,4 @@
+SOAR5KA.pdbqt
+SOAR5KB.pdbqt
+SOAR5KC.pdbqt
+SOAR5KD.pdbqt

@@ -1,0 +1,12 @@
+receptor = 4HKR.pdbqt
+
+center_x =  63.98
+center_y =  46.399
+center_z =  72.261
+
+size_x = 58
+size_y = 50
+size_z = 84
+
+energy_range = 4
+

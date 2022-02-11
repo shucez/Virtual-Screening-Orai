@@ -1,0 +1,11 @@
+receptor = d_Orai1_Dong.pdbqt
+
+center_x =  -0.133
+center_y =  -7.302
+center_z =  36.454
+
+size_x = 22
+size_y = 12
+size_z = 14
+
+energy_range = 4

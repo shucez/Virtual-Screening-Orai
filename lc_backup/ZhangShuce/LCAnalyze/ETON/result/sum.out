@@ -1,0 +1,11 @@
+WARNING: unknown option '--default-packages=utils'
+
+[1] "Current wkdir= /export/panfs02/home/zhengsisi/ZhangShuce/LCAnalyze/Nexus/result/filter_all"
+[1] "Reading files for ACE ..."
+[1] "processing ACE_1e-3.tab ..."
+[1] "processing ACE_1e-4.tab ..."
+[1] "processing ACE_1e-5.tab ..."
+[1] "Reading files for BDF ..."
+[1] "processing BDF_1e-3.tab ..."
+[1] "processing BDF_1e-4.tab ..."
+[1] "processing BDF_1e-5.tab ..."

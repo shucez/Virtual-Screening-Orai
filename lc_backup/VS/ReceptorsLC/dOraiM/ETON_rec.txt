@@ -1,0 +1,6 @@
+~/VS/ReceptorsLC/dOraiM/dOraiMETONAB.pdbqt
+~/VS/ReceptorsLC/dOraiM/dOraiMETONBC.pdbqt
+~/VS/ReceptorsLC/dOraiM/dOraiMETONCD.pdbqt
+~/VS/ReceptorsLC/dOraiM/dOraiMETONDE.pdbqt
+~/VS/ReceptorsLC/dOraiM/dOraiMETONEF.pdbqt
+~/VS/ReceptorsLC/dOraiM/dOraiMETONFA.pdbqt

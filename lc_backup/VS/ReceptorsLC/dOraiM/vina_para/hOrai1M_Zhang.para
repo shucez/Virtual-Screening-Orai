@@ -1,0 +1,12 @@
+receptor = h_Orai1_Zhang.pdbqt
+
+center_x =  54.645
+center_y =  51.128
+center_z =  62.596
+
+size_x = 120
+size_y = 120
+size_z = 102
+
+energy_range = 4
+exhaustiveness = 1000

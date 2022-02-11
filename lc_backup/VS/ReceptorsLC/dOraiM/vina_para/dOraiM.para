@@ -1,0 +1,12 @@
+receptor = d_Orai1_Dong.pdbqt
+
+center_x =  -6.59
+center_y =  -5.736
+center_z =  13.044
+
+size_x = 110
+size_y = 100
+size_z = 84
+
+energy_range = 4
+exhaustiveness = 1000

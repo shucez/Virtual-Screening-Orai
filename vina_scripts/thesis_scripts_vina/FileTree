@@ -1,0 +1,67 @@
+.
+├── autodock
+│   ├── autodock_vina_1_1_2_linux_x86
+│   │   ├── bin
+│   │   │   ├── vina
+│   │   │   └── vina_split
+│   │   └── LICENSE
+│   └── autodock_vina_1_1_2_linux_x86.tgz
+├── GetEnergy2.pl
+├── prepare_ligand4.py
+├── scripts
+│   ├── MakeLigands2
+│   │   ├── Edit_script2.sh
+│   │   ├── Edit_script.sh
+│   │   ├── Origin2.csh
+│   │   ├── Origin.csh
+│   │   └── submit.sh
+│   ├── PrepLigands
+│   │   ├── Edit_script2.sh
+│   │   ├── Edit_script.sh
+│   │   ├── Origin.csh
+│   │   └── submit.sh
+│   └── RunVina
+│       ├── Edit_script_dOraiMCBDtri.sh
+│       ├── Origin_dOraiMCBDtri.csh
+│       ├── scripts_dOraiMCBDtri
+│       │   ├── C_dMCBDtri0_1.csh
+│       │   ├── C_dMCBDtri0_2.csh
+│       │   ├── C_dMCBDtri0_3.csh
+│       │   ├── C_dMCBDtri0_....csh
+│       │   ├── C_dMCBDtri1_1.csh
+│       │   ├── C_dMCBDtri1_2.csh
+│       │   ├── C_dMCBDtri1_3.csh
+│       │   ├── C_dMCBDtri1_....csh
+│       │   └── C_dMCBDtri....csh
+│       └── submit.sh
+└── VS
+    ├── Dockings
+    │   ├── Dockings0
+    │   ├── Dockings1
+    │   ├── Dockings2
+    │   ├── Dockings3
+    │   └── Dockings...
+    ├── etc
+    │   ├── etc1
+    │   ├── etc2
+    │   ├── etc3
+    │   └── etc...
+    ├── Ligands
+    │   ├── Ligands0
+    │   ├── Ligands1
+    │   ├── Ligands2
+    │   ├── Ligands3
+    │   └── Ligands...
+    ├── Receptor
+    │   ├── d_Orai1_Dong.pdbqt
+    │   ├── dOraiM_CBD_AB.para
+    │   ├── dOraiM_CBD_CD.para
+    │   └── dOraiM_CBD_EF.para
+    └── Results
+        ├── Results0
+        ├── Results1
+        ├── Results2
+        ├── Results3
+        └── Results...
+
+33 directories, 31 files
